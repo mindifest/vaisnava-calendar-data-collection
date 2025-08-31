@@ -1,65 +1,65 @@
 [
   {
     "title": "Abu Dhabi, UAE",
-    "coordinates": "054E22 24N28",
-    "timezone": "+4.00",
-    "option": "Abu Dhabi, UAE                054E22 24N28     +4.00",
-    "file": "abu_dhabi_uae_054e22_24n28_4_00"
+    "coordinates": "24N28 054E22",
+    "timezone": "+4:00",
+    "option": "Abu Dhabi, UAE                24N28 054E22  +4:00",
+    "file": "abu_dhabi_uae_24n28_054e22_4_00"
   },
   {
     "title": "Astrakhan, Russia",
-    "coordinates": "048E03 46N21",
-    "timezone": "+4.00",
-    "option": "Astrakhan, Russia             048E03 46N21     +4.00",
-    "file": "astrakhan_russia_048e03_46n21_4_00"
+    "coordinates": "46N21 048E03",
+    "timezone": "+4:00",
+    "option": "Astrakhan, Russia             46N21 048E03  +4:00",
+    "file": "astrakhan_russia_46n21_048e03_4_00"
   },
   {
     "title": "Baku, Azerbaijan",
-    "coordinates": "049E50 40N28",
-    "timezone": "+4.00",
-    "option": "Baku, Azerbaijan              049E50 40N28     +4.00",
-    "file": "baku_azerbaijan_049e50_40n28_4_00"
+    "coordinates": "40N23 049E54",
+    "timezone": "+4:00",
+    "option": "Baku, Azerbaijan              40N23 049E54  +4:00",
+    "file": "baku_azerbaijan_40n23_049e54_4_00"
   },
   {
     "title": "Izhevsk, Russia",
-    "coordinates": "053E14 56N51",
-    "timezone": "+4.00",
-    "option": "Izhevsk, Russia               053E14 56N51     +4.00",
-    "file": "izhevsk_russia_053e14_56n51_4_00"
+    "coordinates": "56N51 053E14",
+    "timezone": "+4:00",
+    "option": "Izhevsk, Russia               56N51 053E14  +4:00",
+    "file": "izhevsk_russia_56n51_053e14_4_00"
   },
   {
-    "title": "Mauritius",
-    "coordinates": "057E33 20S17",
-    "timezone": "+4.00",
-    "option": "Mauritius                     057E33 20S17     +4.00",
-    "file": "mauritius_057e33_20s17_4_00"
+    "title": "Quatre Bornes, Mauritius",
+    "coordinates": "20S16 057E28",
+    "timezone": "+4:00",
+    "option": "Quatre Bornes, Mauritius      20S16 057E28  +4:00",
+    "file": "quatre_bornes_mauritius_20s16_057e28_4_00"
   },
   {
     "title": "Samara, Russia",
-    "coordinates": "050E09 53N12",
-    "timezone": "+4.00",
-    "option": "Samara, Russia                050E09 53N12     +4.00",
-    "file": "samara_russia_050e09_53n12_4_00"
+    "coordinates": "53N12 050E09",
+    "timezone": "+4:00",
+    "option": "Samara, Russia                53N12 050E09  +4:00",
+    "file": "samara_russia_53n12_050e09_4_00"
   },
   {
     "title": "Saratov, Russia",
-    "coordinates": "046E02 51N32",
-    "timezone": "+4.00",
-    "option": "Saratov, Russia               046E02 51N32     +4.00",
-    "file": "saratov_russia_046e02_51n32_4_00"
+    "coordinates": "51N34 046E02",
+    "timezone": "+4:00",
+    "option": "Saratov, Russia               51N34 046E02  +4:00",
+    "file": "saratov_russia_51n34_046e02_4_00"
   },
   {
     "title": "Tbilisi, Georgia",
-    "coordinates": "044E50 41N43",
-    "timezone": "+4.00",
-    "option": "Tbilisi, Georgia              044E50 41N43     +4.00",
-    "file": "tbilisi_georgia_044e50_41n43_4_00"
+    "coordinates": "41N44 044E47",
+    "timezone": "+4:00",
+    "option": "Tbilisi, Georgia              41N44 044E47  +4:00",
+    "file": "tbilisi_georgia_41n44_044e47_4_00"
   },
   {
     "title": "Yerevan, Armenia",
-    "coordinates": "044E30 40N15",
-    "timezone": "+4.00",
-    "option": "Yerevan, Armenia              044E30 40N15     +4.00",
-    "file": "yerevan_armenia_044e30_40n15_4_00"
+    "coordinates": "40N11 044E31",
+    "timezone": "+4:00",
+    "option": "Yerevan, Armenia              40N11 044E31  +4:00",
+    "file": "yerevan_armenia_40n11_044e31_4_00"
   }
 ]

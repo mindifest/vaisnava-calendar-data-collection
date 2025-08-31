@@ -1,65 +1,72 @@
 [
   {
-    "title": "Chelyabinsk, Russia",
-    "coordinates": "061E25 55N09",
-    "timezone": "+5.00",
-    "option": "Chelyabinsk, Russia           061E25 55N09     +5.00",
-    "file": "chelyabinsk_russia_061e25_55n09_5_00"
+    "title": "Almaty, Kazakhstan",
+    "coordinates": "43N15 076E57",
+    "timezone": "+5:00",
+    "option": "Almaty, Kazakhstan            43N15 076E57  +5:00",
+    "file": "almaty_kazakhstan_43n15_076e57_5_00"
   },
   {
-    "title": "Ekaterinburg, Russia",
-    "coordinates": "060E36 56N51",
-    "timezone": "+5.00",
-    "option": "Ekaterinburg, Russia          060E36 56N51     +5.00",
-    "file": "ekaterinburg_russia_060e36_56n51_5_00"
+    "title": "Chelyabinsk, Russia",
+    "coordinates": "55N09 061E26",
+    "timezone": "+5:00",
+    "option": "Chelyabinsk, Russia           55N09 061E26  +5:00",
+    "file": "chelyabinsk_russia_55n09_061e26_5_00"
   },
   {
     "title": "Neftekamsk, Russia",
-    "coordinates": "054E17 56N06",
-    "timezone": "+5.00",
-    "option": "Neftekamsk, Russia            054E17 56N06     +5.00",
-    "file": "neftekamsk_russia_054e17_56n06_5_00"
+    "coordinates": "56N05 054E16",
+    "timezone": "+5:00",
+    "option": "Neftekamsk, Russia            56N05 054E16  +5:00",
+    "file": "neftekamsk_russia_56n05_054e16_5_00"
   },
   {
     "title": "Orenburg, Russia",
-    "coordinates": "055E06 51N47",
-    "timezone": "+5.00",
-    "option": "Orenburg, Russia              055E06 51N47     +5.00",
-    "file": "orenburg_russia_055e06_51n47_5_00"
+    "coordinates": "51N46 055E06",
+    "timezone": "+5:00",
+    "option": "Orenburg, Russia              51N46 055E06  +5:00",
+    "file": "orenburg_russia_51n46_055e06_5_00"
   },
   {
     "title": "Perm, Russia",
-    "coordinates": "056E15 58N00",
-    "timezone": "+5.00",
-    "option": "Perm, Russia                  056E15 58N00     +5.00",
-    "file": "perm_russia_056e15_58n00_5_00"
+    "coordinates": "58N00 056E15",
+    "timezone": "+5:00",
+    "option": "Perm, Russia                  58N00 056E15  +5:00",
+    "file": "perm_russia_58n00_056e15_5_00"
   },
   {
     "title": "Surgut, Russia,",
-    "coordinates": "073E26 61N15",
-    "timezone": "+5.00",
-    "option": "Surgut, Russia,               073E26 61N15     +5.00",
-    "file": "surgut_russia_073e26_61n15_5_00"
+    "coordinates": "61N15 073E25",
+    "timezone": "+5:00",
+    "option": "Surgut, Russia,               61N15 073E25  +5:00",
+    "file": "surgut_russia_61n15_073e25_5_00"
   },
   {
     "title": "Tashkent, Uzbekistan",
-    "coordinates": "069E00 41N30",
-    "timezone": "+5.00",
-    "option": "Tashkent, Uzbekistan          069E00 41N30     +5.00",
-    "file": "tashkent_uzbekistan_069e00_41n30_5_00"
+    "coordinates": "41N16 069E13",
+    "timezone": "+5:00",
+    "option": "Tashkent, Uzbekistan          41N16 069E13  +5:00",
+    "file": "tashkent_uzbekistan_41n16_069e13_5_00"
   },
   {
     "title": "Tyumen, Russia",
-    "coordinates": "065E32 57N09",
-    "timezone": "+5.00",
-    "option": "Tyumen, Russia                065E32 57N09     +5.00",
-    "file": "tyumen_russia_065e32_57n09_5_00"
+    "coordinates": "57N09 065E32",
+    "timezone": "+5:00",
+    "option": "Tyumen, Russia                57N09 065E32  +5:00",
+    "file": "tyumen_russia_57n09_065e32_5_00"
   },
   {
     "title": "Ufa, Russia",
-    "coordinates": "056E02 54N46",
-    "timezone": "+5.00",
-    "option": "Ufa, Russia                   056E02 54N46     +5.00",
-    "file": "ufa_russia_056e02_54n46_5_00"
+    "coordinates": "54N46 056E02",
+    "timezone": "+5:00",
+    "option": "Ufa, Russia                   54N46 056E02  +5:00",
+    "file": "ufa_russia_54n46_056e02_5_00"
+  },
+  {
+    "title": "Yekaterinburg, Russia",
+    "coordinates": "56N51 060E37",
+    "timezone": "+5:00",
+    "option": "Yekaterinburg, Russia         56N51 060E37  +5:00",
+    "file": "yekaterinburg_russia_56n51_060e37_5_00"
   }
 ]

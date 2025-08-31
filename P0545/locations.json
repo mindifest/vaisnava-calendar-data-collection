@@ -1,44 +1,51 @@
 [
   {
+    "title": "Biratnagar, Nepal",
+    "coordinates": "26N29 087E17",
+    "timezone": "+5:45",
+    "option": "Biratnagar, Nepal             26N29 087E17  +5:45",
+    "file": "biratnagar_nepal_26n29_087e17_5_45"
+  },
+  {
     "title": "Jaleshwar, Nepal",
-    "coordinates": "085E48 26N38",
-    "timezone": "+5.45",
-    "option": "Jaleshwar, Nepal              085E48 26N38     +5.45",
-    "file": "jaleshwar_nepal_085e48_26n38_5_45"
+    "coordinates": "26N38 085E48",
+    "timezone": "+5:45",
+    "option": "Jaleshwar, Nepal              26N38 085E48  +5:45",
+    "file": "jaleshwar_nepal_26n38_085e48_5_45"
   },
   {
     "title": "Janakpur, Nepal",
-    "coordinates": "085E55 26N43",
-    "timezone": "+5.45",
-    "option": "Janakpur, Nepal               085E55 26N43     +5.45",
-    "file": "janakpur_nepal_085e55_26n43_5_45"
+    "coordinates": "26N42 085E55",
+    "timezone": "+5:45",
+    "option": "Janakpur, Nepal               26N42 085E55  +5:45",
+    "file": "janakpur_nepal_26n42_085e55_5_45"
   },
   {
     "title": "Kathmandu, Nepal",
-    "coordinates": "085E19 27N43",
-    "timezone": "+5.45",
-    "option": "Kathmandu, Nepal              085E19 27N43     +5.45",
-    "file": "kathmandu_nepal_085e19_27n43_5_45"
+    "coordinates": "27N42 085E19",
+    "timezone": "+5:45",
+    "option": "Kathmandu, Nepal              27N42 085E19  +5:45",
+    "file": "kathmandu_nepal_27n42_085e19_5_45"
   },
   {
     "title": "Tikapur, Nepal",
-    "coordinates": "081E08 28N30",
-    "timezone": "+5.45",
-    "option": "Tikapur, Nepal                081E08 28N30     +5.45",
-    "file": "tikapur_nepal_081e08_28n30_5_45"
+    "coordinates": "28N30 081E08",
+    "timezone": "+5:45",
+    "option": "Tikapur, Nepal                28N30 081E08  +5:45",
+    "file": "tikapur_nepal_28n30_081e08_5_45"
   },
   {
     "title": "Tulsipur, Nepal",
-    "coordinates": "082E18 28N08",
-    "timezone": "+5.45",
-    "option": "Tulsipur, Nepal               082E18 28N08     +5.45",
-    "file": "tulsipur_nepal_082e18_28n08_5_45"
+    "coordinates": "28N08 082E18",
+    "timezone": "+5:45",
+    "option": "Tulsipur, Nepal               28N08 082E18  +5:45",
+    "file": "tulsipur_nepal_28n08_082e18_5_45"
   },
   {
     "title": "Waling, Nepal",
-    "coordinates": "083E46 27N59",
-    "timezone": "+5.45",
-    "option": "Waling, Nepal                 083E46 27N59     +5.45",
-    "file": "waling_nepal_083e46_27n59_5_45"
+    "coordinates": "27N59 083E46",
+    "timezone": "+5:45",
+    "option": "Waling, Nepal                 27N59 083E46  +5:45",
+    "file": "waling_nepal_27n59_083e46_5_45"
   }
 ]

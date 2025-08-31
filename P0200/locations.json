@@ -1,303 +1,282 @@
 [
   {
     "title": "Alytus, Lithuania",
-    "coordinates": "024E00 54N20",
-    "timezone": "+2.00",
-    "option": "Alytus, Lithuania             024E00 54N20     +2.00",
-    "file": "alytus_lithuania_024e00_54n20_2_00"
+    "coordinates": "54N24 024E03",
+    "timezone": "+2:00",
+    "option": "Alytus, Lithuania             54N24 024E03  +2:00",
+    "file": "alytus_lithuania_54n24_024e03_2_00"
   },
   {
     "title": "Athens, Greece",
-    "coordinates": "023E43 37N58",
-    "timezone": "+2.00",
-    "option": "Athens, Greece                023E43 37N58     +2.00",
-    "file": "athens_greece_023e43_37n58_2_00"
+    "coordinates": "37N59 023E43",
+    "timezone": "+2:00",
+    "option": "Athens, Greece                37N59 023E43  +2:00",
+    "file": "athens_greece_37n59_023e43_2_00"
   },
   {
     "title": "Beltsy, Moldova",
-    "coordinates": "027E56 47N46",
-    "timezone": "+2.00",
-    "option": "Beltsy, Moldova               027E56 47N46     +2.00",
-    "file": "beltsy_moldova_027e56_47n46_2_00"
-  },
-  {
-    "title": "Bel'tsy, Moldova",
-    "coordinates": "027E56 47N46",
-    "timezone": "+2.00",
-    "option": "Bel'tsy, Moldova              027E56 47N46     +2.00",
-    "file": "bel_tsy_moldova_027e56_47n46_2_00"
+    "coordinates": "47N46 027E56",
+    "timezone": "+2:00",
+    "option": "Beltsy, Moldova               47N46 027E56  +2:00",
+    "file": "beltsy_moldova_47n46_027e56_2_00"
   },
   {
     "title": "Bucharest, Rumania",
-    "coordinates": "026E05 44N29",
-    "timezone": "+2.00",
-    "option": "Bucharest, Rumania            026E05 44N29     +2.00",
-    "file": "bucharest_rumania_026e05_44n29_2_00"
+    "coordinates": "44N26 026E06",
+    "timezone": "+2:00",
+    "option": "Bucharest, Rumania            44N26 026E06  +2:00",
+    "file": "bucharest_rumania_44n26_026e06_2_00"
   },
   {
     "title": "Cape Town, South Africa",
-    "coordinates": "018E22 33S55",
-    "timezone": "+2.00",
-    "option": "Cape Town, South Africa       018E22 33S55     +2.00",
-    "file": "cape_town_south_africa_018e22_33s55_2_00"
+    "coordinates": "33S55 018E25",
+    "timezone": "+2:00",
+    "option": "Cape Town, South Africa       33S55 018E25  +2:00",
+    "file": "cape_town_south_africa_33s55_018e25_2_00"
   },
   {
-    "title": "Cyprus",
-    "coordinates": "033E00 35N00",
-    "timezone": "+2.00",
-    "option": "Cyprus                        033E00 35N00     +2.00",
-    "file": "cyprus_033e00_35n00_2_00"
+    "title": "Chisinau, Moldova",
+    "coordinates": "47N00 028E51",
+    "timezone": "+2:00",
+    "option": "Chisinau, Moldova             47N00 028E51  +2:00",
+    "file": "chisinau_moldova_47n00_028e51_2_00"
   },
   {
-    "title": "Dnepropetrovsk, Ukraine",
-    "coordinates": "034E59 48N27",
-    "timezone": "+2.00",
-    "option": "Dnepropetrovsk, Ukraine       034E59 48N27     +2.00",
-    "file": "dnepropetrovsk_ukraine_034e59_48n27_2_00"
+    "title": "Dnipropetrovsk, Ukraine",
+    "coordinates": "48N27 034E59",
+    "timezone": "+2:00",
+    "option": "Dnipropetrovsk, Ukraine       48N27 034E59  +2:00",
+    "file": "dnipropetrovsk_ukraine_48n27_034e59_2_00"
   },
   {
     "title": "Druskininkai, Lithuania",
-    "coordinates": "023E59 54N01",
-    "timezone": "+2.00",
-    "option": "Druskininkai, Lithuania       023E59 54N01     +2.00",
-    "file": "druskininkai_lithuania_023e59_54n01_2_00"
+    "coordinates": "54N01 023E58",
+    "timezone": "+2:00",
+    "option": "Druskininkai, Lithuania       54N01 023E58  +2:00",
+    "file": "druskininkai_lithuania_54n01_023e58_2_00"
   },
   {
     "title": "Durban, South Africa",
-    "coordinates": "030E52 29S57",
-    "timezone": "+2.00",
-    "option": "Durban, South Africa          030E52 29S57     +2.00",
-    "file": "durban_south_africa_030e52_29s57_2_00"
+    "coordinates": "29S51 031E01",
+    "timezone": "+2:00",
+    "option": "Durban, South Africa          29S51 031E01  +2:00",
+    "file": "durban_south_africa_29s51_031e01_2_00"
   },
   {
     "title": "Harare, Zimbabwe",
-    "coordinates": "031E10 17S50",
-    "timezone": "+2.00",
-    "option": "Harare, Zimbabwe              031E10 17S50     +2.00",
-    "file": "harare_zimbabwe_031e10_17s50_2_00"
+    "coordinates": "17S50 031E03",
+    "timezone": "+2:00",
+    "option": "Harare, Zimbabwe              17S50 031E03  +2:00",
+    "file": "harare_zimbabwe_17s50_031e03_2_00"
   },
   {
     "title": "Helsinki, Finland",
-    "coordinates": "025E00 60N08",
-    "timezone": "+2.00",
-    "option": "Helsinki, Finland             025E00 60N08     +2.00",
-    "file": "helsinki_finland_025e00_60n08_2_00"
-  },
-  {
-    "title": "Hvatynka, Belarus,",
-    "coordinates": "029E25 54N31",
-    "timezone": "+2.00",
-    "option": "Hvatynka, Belarus,            029E25 54N31     +2.00",
-    "file": "hvatynka_belarus_029e25_54n31_2_00"
+    "coordinates": "60N10 024E56",
+    "timezone": "+2:00",
+    "option": "Helsinki, Finland             60N10 024E56  +2:00",
+    "file": "helsinki_finland_60n10_024e56_2_00"
   },
   {
     "title": "Johannesburg, South Africa",
-    "coordinates": "028E00 26S15",
-    "timezone": "+2.00",
-    "option": "Johannesburg, South Africa    028E00 26S15     +2.00",
-    "file": "johannesburg_south_africa_028e00_26s15_2_00"
+    "coordinates": "26S12 028E03",
+    "timezone": "+2:00",
+    "option": "Johannesburg, South Africa    26S12 028E03  +2:00",
+    "file": "johannesburg_south_africa_26s12_028e03_2_00"
   },
   {
     "title": "Kaliningrad, Russia",
-    "coordinates": "020E30 54N43",
-    "timezone": "+2.00",
-    "option": "Kaliningrad, Russia           020E30 54N43     +2.00",
-    "file": "kaliningrad_russia_020e30_54n43_2_00"
+    "coordinates": "54N43 020E30",
+    "timezone": "+2:00",
+    "option": "Kaliningrad, Russia           54N43 020E30  +2:00",
+    "file": "kaliningrad_russia_54n43_020e30_2_00"
   },
   {
     "title": "Kaunas, Lithuania",
-    "coordinates": "023E50 54N48",
-    "timezone": "+2.00",
-    "option": "Kaunas, Lithuania             023E50 54N48     +2.00",
-    "file": "kaunas_lithuania_023e50_54n48_2_00"
+    "coordinates": "54N54 023E54",
+    "timezone": "+2:00",
+    "option": "Kaunas, Lithuania             54N54 023E54  +2:00",
+    "file": "kaunas_lithuania_54n54_023e54_2_00"
   },
   {
-    "title": "Kharkov, Ukraine",
-    "coordinates": "036E15 50N00",
-    "timezone": "+2.00",
-    "option": "Kharkov, Ukraine              036E15 50N00     +2.00",
-    "file": "kharkov_ukraine_036e15_50n00_2_00"
+    "title": "Kharkiv, Ukraine",
+    "coordinates": "50N00 036E15",
+    "timezone": "+2:00",
+    "option": "Kharkiv, Ukraine              50N00 036E15  +2:00",
+    "file": "kharkiv_ukraine_50n00_036e15_2_00"
   },
   {
     "title": "Kherson, Ukraine",
-    "coordinates": "032E36 46N38",
-    "timezone": "+2.00",
-    "option": "Kherson, Ukraine              032E36 46N38     +2.00",
-    "file": "kherson_ukraine_032e36_46n38_2_00"
+    "coordinates": "46N38 032E36",
+    "timezone": "+2:00",
+    "option": "Kherson, Ukraine              46N38 032E36  +2:00",
+    "file": "kherson_ukraine_46n38_032e36_2_00"
   },
   {
     "title": "Kiev, Ukraine",
-    "coordinates": "030E25 50N30",
-    "timezone": "+2.00",
-    "option": "Kiev, Ukraine                 030E25 50N30     +2.00",
-    "file": "kiev_ukraine_030e25_50n30_2_00"
+    "coordinates": "50N27 030E31",
+    "timezone": "+2:00",
+    "option": "Kiev, Ukraine                 50N27 030E31  +2:00",
+    "file": "kiev_ukraine_50n27_030e31_2_00"
   },
   {
-    "title": "Kirovograd, Ukraine",
-    "coordinates": "032E16 48N30",
-    "timezone": "+2.00",
-    "option": "Kirovograd, Ukraine           032E16 48N30     +2.00",
-    "file": "kirovograd_ukraine_032e16_48n30_2_00"
+    "title": "Kirovohrad, Ukraine",
+    "coordinates": "48N30 032E16",
+    "timezone": "+2:00",
+    "option": "Kirovohrad, Ukraine           48N30 032E16  +2:00",
+    "file": "kirovohrad_ukraine_48n30_032e16_2_00"
   },
   {
-    "title": "Kishinev, Moldova",
-    "coordinates": "028E50 47N00",
-    "timezone": "+2.00",
-    "option": "Kishinev, Moldova             028E50 47N00     +2.00",
-    "file": "kishinev_moldova_028e50_47n00_2_00"
-  },
-  {
-    "title": "Kitwe-Nkana, Zambia",
-    "coordinates": "028E13 12S49",
-    "timezone": "+2.00",
-    "option": "Kitwe-Nkana, Zambia           028E13 12S49     +2.00",
-    "file": "kitwe_nkana_zambia_028e13_12s49_2_00"
+    "title": "Kitwe, Zambia",
+    "coordinates": "12S49 028E12",
+    "timezone": "+2:00",
+    "option": "Kitwe, Zambia                 12S49 028E12  +2:00",
+    "file": "kitwe_zambia_12s49_028e12_2_00"
   },
   {
     "title": "Klaipeda, Lithuania",
-    "coordinates": "021E12 55N45",
-    "timezone": "+2.00",
-    "option": "Klaipeda, Lithuania           021E12 55N45     +2.00",
-    "file": "klaipeda_lithuania_021e12_55n45_2_00"
+    "coordinates": "55N43 021E07",
+    "timezone": "+2:00",
+    "option": "Klaipeda, Lithuania           55N43 021E07  +2:00",
+    "file": "klaipeda_lithuania_55n43_021e07_2_00"
   },
   {
     "title": "Lusaka, Zambia",
-    "coordinates": "028E17 15S25",
-    "timezone": "+2.00",
-    "option": "Lusaka, Zambia                028E17 15S25     +2.00",
-    "file": "lusaka_zambia_028e17_15s25_2_00"
+    "coordinates": "15S24 028E17",
+    "timezone": "+2:00",
+    "option": "Lusaka, Zambia                15S24 028E17  +2:00",
+    "file": "lusaka_zambia_15s24_028e17_2_00"
   },
   {
-    "title": "Mazheikiai, Lithuania",
-    "coordinates": "022E20 56N26",
-    "timezone": "+2.00",
-    "option": "Mazheikiai, Lithuania         022E20 56N26     +2.00",
-    "file": "mazheikiai_lithuania_022e20_56n26_2_00"
+    "title": "Mazeikiai, Lithuania",
+    "coordinates": "56N19 022E20",
+    "timezone": "+2:00",
+    "option": "Mazeikiai, Lithuania          56N19 022E20  +2:00",
+    "file": "mazeikiai_lithuania_56n19_022e20_2_00"
   },
   {
-    "title": "Minsk, Belarus",
-    "coordinates": "027E15 54N00",
-    "timezone": "+2.00",
-    "option": "Minsk, Belarus                027E15 54N00     +2.00",
-    "file": "minsk_belarus_027e15_54n00_2_00"
+    "title": "Nicosia, Cyprus",
+    "coordinates": "35N10 033E22",
+    "timezone": "+2:00",
+    "option": "Nicosia, Cyprus               35N10 033E22  +2:00",
+    "file": "nicosia_cyprus_35n10_033e22_2_00"
   },
   {
     "title": "Nikolajev, Ukraine",
-    "coordinates": "032E00 46N58",
-    "timezone": "+2.00",
-    "option": "Nikolajev, Ukraine            032E00 46N58     +2.00",
-    "file": "nikolajev_ukraine_032e00_46n58_2_00"
+    "coordinates": "46N58 032E00",
+    "timezone": "+2:00",
+    "option": "Nikolajev, Ukraine            46N58 032E00  +2:00",
+    "file": "nikolajev_ukraine_46n58_032e00_2_00"
   },
   {
-    "title": "Odessa, Ukraine",
-    "coordinates": "030E40 46N30",
-    "timezone": "+2.00",
-    "option": "Odessa, Ukraine               030E40 46N30     +2.00",
-    "file": "odessa_ukraine_030e40_46n30_2_00"
+    "title": "Odesa, Ukraine",
+    "coordinates": "46N29 030E44",
+    "timezone": "+2:00",
+    "option": "Odesa, Ukraine                46N29 030E44  +2:00",
+    "file": "odesa_ukraine_46n29_030e44_2_00"
   },
   {
-    "title": "Panevezhys, Lithuania",
-    "coordinates": "024E28 55N40",
-    "timezone": "+2.00",
-    "option": "Panevezhys, Lithuania         024E28 55N40     +2.00",
-    "file": "panevezhys_lithuania_024e28_55n40_2_00"
+    "title": "Panevezys, Lithuania",
+    "coordinates": "55N44 024E21",
+    "timezone": "+2:00",
+    "option": "Panevezys, Lithuania          55N44 024E21  +2:00",
+    "file": "panevezys_lithuania_55n44_024e21_2_00"
   },
   {
     "title": "Plovdiv, Bulgaria",
-    "coordinates": "024E44 42N10",
-    "timezone": "+2.00",
-    "option": "Plovdiv, Bulgaria             024E44 42N10     +2.00",
-    "file": "plovdiv_bulgaria_024e44_42n10_2_00"
+    "coordinates": "42N09 024E45",
+    "timezone": "+2:00",
+    "option": "Plovdiv, Bulgaria             42N09 024E45  +2:00",
+    "file": "plovdiv_bulgaria_42n09_024e45_2_00"
   },
   {
     "title": "Port Elizabeth, South Africa",
-    "coordinates": "025E30 33S56",
-    "timezone": "+2.00",
-    "option": "Port Elizabeth, South Africa  025E30 33S56     +2.00",
-    "file": "port_elizabeth_south_africa_025e30_33s56_2_00"
+    "coordinates": "33S58 025E35",
+    "timezone": "+2:00",
+    "option": "Port Elizabeth, South Africa  33S58 025E35  +2:00",
+    "file": "port_elizabeth_south_africa_33s58_025e35_2_00"
   },
   {
     "title": "Riga, Latvia",
-    "coordinates": "024E05 57N02",
-    "timezone": "+2.00",
-    "option": "Riga, Latvia                  024E05 57N02     +2.00",
-    "file": "riga_latvia_024e05_57n02_2_00"
+    "coordinates": "56N57 024E06",
+    "timezone": "+2:00",
+    "option": "Riga, Latvia                  56N57 024E06  +2:00",
+    "file": "riga_latvia_56n57_024e06_2_00"
   },
   {
-    "title": "Shyaulyai, Lithuania",
-    "coordinates": "023E07 56N00",
-    "timezone": "+2.00",
-    "option": "Shyaulyai, Lithuania          023E07 56N00     +2.00",
-    "file": "shyaulyai_lithuania_023e07_56n00_2_00"
+    "title": "Siauliai, Lithuania",
+    "coordinates": "55N56 023E19",
+    "timezone": "+2:00",
+    "option": "Siauliai, Lithuania           55N56 023E19  +2:00",
+    "file": "siauliai_lithuania_55n56_023e19_2_00"
   },
   {
     "title": "Sofia, Bulgaria",
-    "coordinates": "023E18 42N42",
-    "timezone": "+2.00",
-    "option": "Sofia, Bulgaria               023E18 42N42     +2.00",
-    "file": "sofia_bulgaria_023e18_42n42_2_00"
+    "coordinates": "42N42 023E19",
+    "timezone": "+2:00",
+    "option": "Sofia, Bulgaria               42N42 023E19  +2:00",
+    "file": "sofia_bulgaria_42n42_023e19_2_00"
   },
   {
     "title": "Tallinn, Estonia",
-    "coordinates": "024E45 59N30",
-    "timezone": "+2.00",
-    "option": "Tallinn, Estonia              024E45 59N30     +2.00",
-    "file": "tallinn_estonia_024e45_59n30_2_00"
+    "coordinates": "59N26 024E45",
+    "timezone": "+2:00",
+    "option": "Tallinn, Estonia              59N26 024E45  +2:00",
+    "file": "tallinn_estonia_59n26_024e45_2_00"
   },
   {
     "title": "Tampere, Finland",
-    "coordinates": "023E49 61N31",
-    "timezone": "+2.00",
-    "option": "Tampere, Finland              023E49 61N31     +2.00",
-    "file": "tampere_finland_023e49_61n31_2_00"
+    "coordinates": "61N30 023E47",
+    "timezone": "+2:00",
+    "option": "Tampere, Finland              61N30 023E47  +2:00",
+    "file": "tampere_finland_61n30_023e47_2_00"
   },
   {
     "title": "Tel Aviv, Israel",
-    "coordinates": "034E48 32N05",
-    "timezone": "+2.00",
-    "option": "Tel Aviv, Israel              034E48 32N05     +2.00",
-    "file": "tel_aviv_israel_034e48_32n05_2_00"
+    "coordinates": "32N04 034E46",
+    "timezone": "+2:00",
+    "option": "Tel Aviv, Israel              32N04 034E46  +2:00",
+    "file": "tel_aviv_israel_32n04_034e46_2_00"
   },
   {
-    "title": "Ternopol, Ukraine",
-    "coordinates": "025E35 49N33",
-    "timezone": "+2.00",
-    "option": "Ternopol, Ukraine             025E35 49N33     +2.00",
-    "file": "ternopol_ukraine_025e35_49n33_2_00"
+    "title": "Ternopil, Ukraine",
+    "coordinates": "49N33 025E37",
+    "timezone": "+2:00",
+    "option": "Ternopil, Ukraine             49N33 025E37  +2:00",
+    "file": "ternopil_ukraine_49n33_025e37_2_00"
   },
   {
     "title": "Timisoara, Rumania",
-    "coordinates": "021E15 45N45",
-    "timezone": "+2.00",
-    "option": "Timisoara, Rumania            021E15 45N45     +2.00",
-    "file": "timisoara_rumania_021e15_45n45_2_00"
+    "coordinates": "45N45 021E14",
+    "timezone": "+2:00",
+    "option": "Timisoara, Rumania            45N45 021E14  +2:00",
+    "file": "timisoara_rumania_45n45_021e14_2_00"
   },
   {
     "title": "Turku, Finland",
-    "coordinates": "022E15 60N27",
-    "timezone": "+2.00",
-    "option": "Turku, Finland                022E15 60N27     +2.00",
-    "file": "turku_finland_022e15_60n27_2_00"
+    "coordinates": "60N27 022E17",
+    "timezone": "+2:00",
+    "option": "Turku, Finland                60N27 022E17  +2:00",
+    "file": "turku_finland_60n27_022e17_2_00"
   },
   {
     "title": "Utena, Lithuania",
-    "coordinates": "025E35 55N28",
-    "timezone": "+2.00",
-    "option": "Utena, Lithuania              025E35 55N28     +2.00",
-    "file": "utena_lithuania_025e35_55n28_2_00"
+    "coordinates": "55N30 025E36",
+    "timezone": "+2:00",
+    "option": "Utena, Lithuania              55N30 025E36  +2:00",
+    "file": "utena_lithuania_55n30_025e36_2_00"
   },
   {
     "title": "Vilnius, Lithuania",
-    "coordinates": "025E19 54N40",
-    "timezone": "+2.00",
-    "option": "Vilnius, Lithuania            025E19 54N40     +2.00",
-    "file": "vilnius_lithuania_025e19_54n40_2_00"
+    "coordinates": "54N41 025E17",
+    "timezone": "+2:00",
+    "option": "Vilnius, Lithuania            54N41 025E17  +2:00",
+    "file": "vilnius_lithuania_54n41_025e17_2_00"
   },
   {
-    "title": "Zhitomir, Ukraine",
-    "coordinates": "028E40 50N16",
-    "timezone": "+2.00",
-    "option": "Zhitomir, Ukraine             028E40 50N16     +2.00",
-    "file": "zhitomir_ukraine_028e40_50n16_2_00"
+    "title": "Zhytomyr, Ukraine",
+    "coordinates": "50N15 028E40",
+    "timezone": "+2:00",
+    "option": "Zhytomyr, Ukraine             50N15 028E40  +2:00",
+    "file": "zhytomyr_ukraine_50n15_028e40_2_00"
   }
 ]

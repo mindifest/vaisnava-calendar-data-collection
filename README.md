@@ -71,7 +71,7 @@ Inside each time zone folder, you will find a file named `locations.json`. This 
 
 ### Location-Specific Files
 
-Within each time zone folder, there are individual JSON files for each location. For example, `N0600/sidney_gopals_texas_usa_098w49_32n01_6_00.json`. These files contain the actual Vaisnava calendar events.
+Within each time zone folder, there are individual JSON files for each location. For example, `N0600/sidney_gopals_texas_usa_32n01_098w49_6_00.json`. These files contain the actual Vaisnava calendar events.
 
 ### Sample Event Data Structure
 
@@ -118,7 +118,7 @@ By using this structure, you can easily fetch and utilize data for your calendar
 
 As an **example**:
 
-- If you want to fetch all time zones, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/zones.json`.
+- If you want to fetch all time zones, call `https://vaisnava-calendar-data-collection.gaura.space/zones.json`.
 - If you want to fetch all locations for the `-06:00` time zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/locations.json`.
 - If you want to get all events for `Sidney, TX` within the zone, call `https://vaisnava-calendar-data-collection.gaura.space/N0600/sidney_gopals_texas_usa_098w49_32n01_6_00.json`.
 

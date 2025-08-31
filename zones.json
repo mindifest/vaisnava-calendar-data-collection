@@ -1,137 +1,132 @@
 [
   {
     "title": "00:00 Greenwich Mean Time: London, Lisbon",
-    "pb": "0",
+    "pb": "+00_00",
     "dir": "P0000"
   },
   {
     "title": "+01:00 Amsterdam, Berlin, Rome",
-    "pb": "1",
+    "pb": "+01_00",
     "dir": "P0100"
   },
   {
     "title": "+02:00 Athens, Helsinki, Tel Aviv, Vilnius",
-    "pb": "2",
+    "pb": "+02_00",
     "dir": "P0200"
   },
   {
     "title": "+03:00 Bagdad, Moscow, Nairobi, Riyadh",
-    "pb": "3",
+    "pb": "+03_00",
     "dir": "P0300"
   },
   {
     "title": "+03:30 Teheran",
-    "pb": "350",
+    "pb": "+03_30",
     "dir": "P0330"
   },
   {
     "title": "+04:00 Abu Dhabi, Tbilisi, Baku",
-    "pb": "4",
+    "pb": "+04_00",
     "dir": "P0400"
   },
   {
     "title": "+05:00 Chelyabinsk, Ekaterinburg, Ufa",
-    "pb": "5",
+    "pb": "+05_00",
     "dir": "P0500"
   },
   {
     "title": "+05:30 India",
-    "pb": "550",
+    "pb": "+05_30",
     "dir": "P0530"
   },
   {
     "title": "+05:45 Nepal",
-    "pb": "575",
+    "pb": "+05_45",
     "dir": "P0545"
   },
   {
     "title": "+06:00 Dhaka, Astana",
-    "pb": "6",
+    "pb": "+06_00",
     "dir": "P0600"
   },
   {
     "title": "+07:00 Bangkok, Hanoi",
-    "pb": "7",
+    "pb": "+07_00",
     "dir": "P0700"
   },
   {
     "title": "+08:00 Beijing, Kuala Lumpur, Perth, Taipei",
-    "pb": "8",
+    "pb": "+08_00",
     "dir": "P0800"
   },
   {
     "title": "+09:00 Seoul, Tokyo",
-    "pb": "9",
+    "pb": "+09_00",
     "dir": "P0900"
   },
   {
     "title": "+09:30 Adelaide",
-    "pb": "950",
+    "pb": "+09_30",
     "dir": "P0930"
   },
   {
     "title": "+10:00 Brisbane, Hobart, Khabarovsk, Aust",
-    "pb": "10",
+    "pb": "+10_00",
     "dir": "P1000"
   },
   {
     "title": "+11:00 Yuzhno-Sakhalinsk",
-    "pb": "11",
+    "pb": "+11_00",
     "dir": "P1100"
   },
   {
     "title": "+12:00 Fiji, Marshall Islands, New Zealand",
-    "pb": "12",
+    "pb": "+12_00",
     "dir": "P1200"
   },
   {
-    "title": "-01:00 Azores",
-    "pb": "21",
-    "dir": "N0100"
-  },
-  {
     "title": "-03:00 Buenos Aires",
-    "pb": "23",
+    "pb": "-03_00",
     "dir": "N0300"
   },
   {
     "title": "-03:30 Newfoundland",
-    "pb": "2350",
+    "pb": "-03_30",
     "dir": "N0330"
   },
   {
-    "title": "-03:45 Berbice",
-    "pb": "2375",
-    "dir": "N0345"
-  },
-  {
     "title": "-04:00 Atlantic, Caracas, Cochabamba, La Paz",
-    "pb": "24",
+    "pb": "-04_00",
     "dir": "N0400"
   },
   {
     "title": "-05:00 Eastern",
-    "pb": "25",
+    "pb": "-05_00",
     "dir": "N0500"
   },
   {
     "title": "-06:00 Central Time",
-    "pb": "26",
+    "pb": "-06_00",
     "dir": "N0600"
   },
   {
     "title": "-07:00 Mountain Time",
-    "pb": "27",
+    "pb": "-07_00",
     "dir": "N0700"
   },
   {
     "title": "-08:00 Pacific Time",
-    "pb": "28",
+    "pb": "-08_00",
     "dir": "N0800"
   },
   {
+    "title": "-09:00 Alaska Time",
+    "pb": "-09_00",
+    "dir": "N0900"
+  },
+  {
     "title": "-10:00 Hawaii",
-    "pb": "210",
+    "pb": "-10_00",
     "dir": "N1000"
   }
 ]

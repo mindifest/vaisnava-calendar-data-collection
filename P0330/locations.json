@@ -1,9 +1,9 @@
 [
   {
-    "title": "Teheran, Iran",
-    "coordinates": "051E26 35N40",
-    "timezone": "+3.30",
-    "option": "Teheran, Iran                 051E26 35N40     +3.30",
-    "file": "teheran_iran_051e26_35n40_3_30"
+    "title": "Tehran, Iran",
+    "coordinates": "35N42 051E25",
+    "timezone": "+3:30",
+    "option": "Tehran, Iran                  35N42 051E25  +3:30",
+    "file": "tehran_iran_35n42_051e25_3_30"
   }
 ]

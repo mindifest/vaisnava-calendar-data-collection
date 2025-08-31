@@ -1,226 +1,219 @@
 [
   {
     "title": "Austin, Texas, USA",
-    "coordinates": "097W41 30N16",
-    "timezone": "-6.00",
-    "option": "Austin, Texas, USA            097W41 30N16     -6.00",
-    "file": "austin_texas_usa_097w41_30n16_6_00"
+    "coordinates": "30N16 097W45",
+    "timezone": "-6:00",
+    "option": "Austin, Texas, USA            30N16 097W45  -6:00",
+    "file": "austin_texas_usa_30n16_097w45_6_00"
   },
   {
     "title": "Chicago, Illinois, USA",
-    "coordinates": "087W45 41N53",
-    "timezone": "-6.00",
-    "option": "Chicago, Illinois, USA        087W45 41N53     -6.00",
-    "file": "chicago_illinois_usa_087w45_41n53_6_00"
+    "coordinates": "41N51 087W39",
+    "timezone": "-6:00",
+    "option": "Chicago, Illinois, USA        41N51 087W39  -6:00",
+    "file": "chicago_illinois_usa_41n51_087w39_6_00"
   },
   {
     "title": "Chinandega, Nicaragua",
-    "coordinates": "087W17 12N40",
-    "timezone": "-6.00",
-    "option": "Chinandega, Nicaragua         087W17 12N40     -6.00",
-    "file": "chinandega_nicaragua_087w17_12n40_6_00"
+    "coordinates": "12N37 087W09",
+    "timezone": "-6:00",
+    "option": "Chinandega, Nicaragua         12N37 087W09  -6:00",
+    "file": "chinandega_nicaragua_12n37_087w09_6_00"
   },
   {
     "title": "Ciudad Victoria, Mexico",
-    "coordinates": "099W08 23N44",
-    "timezone": "-6.00",
-    "option": "Ciudad Victoria, Mexico       099W08 23N44     -6.00",
-    "file": "ciudad_victoria_mexico_099w08_23n44_6_00"
-  },
-  {
-    "title": "Ciudad de Mexico, Mexico",
-    "coordinates": "099W09 19N24",
-    "timezone": "-6.00",
-    "option": "Ciudad de Mexico, Mexico      099W09 19N24     -6.00",
-    "file": "ciudad_de_mexico_mexico_099w09_19n24_6_00"
+    "coordinates": "23N44 099W08",
+    "timezone": "-6:00",
+    "option": "Ciudad Victoria, Mexico       23N44 099W08  -6:00",
+    "file": "ciudad_victoria_mexico_23n44_099w08_6_00"
   },
   {
     "title": "Dallas, Texas, USA",
-    "coordinates": "096W49 32N47",
-    "timezone": "-6.00",
-    "option": "Dallas, Texas, USA            096W49 32N47     -6.00",
-    "file": "dallas_texas_usa_096w49_32n47_6_00"
+    "coordinates": "32N47 096W48",
+    "timezone": "-6:00",
+    "option": "Dallas, Texas, USA            32N47 096W48  -6:00",
+    "file": "dallas_texas_usa_32n47_096w48_6_00"
   },
   {
     "title": "Guadalajara, Mexico",
-    "coordinates": "103W20 20N40",
-    "timezone": "-6.00",
-    "option": "Guadalajara, Mexico           103W20 20N40     -6.00",
-    "file": "guadalajara_mexico_103w20_20n40_6_00"
+    "coordinates": "20N40 103W20",
+    "timezone": "-6:00",
+    "option": "Guadalajara, Mexico           20N40 103W20  -6:00",
+    "file": "guadalajara_mexico_20n40_103w20_6_00"
   },
   {
     "title": "Guatemala, Guatemala",
-    "coordinates": "090W30 14N40",
-    "timezone": "-6.00",
-    "option": "Guatemala, Guatemala          090W30 14N40     -6.00",
-    "file": "guatemala_guatemala_090w30_14n40_6_00"
+    "coordinates": "14N38 090W31",
+    "timezone": "-6:00",
+    "option": "Guatemala, Guatemala          14N38 090W31  -6:00",
+    "file": "guatemala_guatemala_14n38_090w31_6_00"
   },
   {
     "title": "Houston, Texas, USA",
-    "coordinates": "095W18 29N46",
-    "timezone": "-6.00",
-    "option": "Houston, Texas, USA           095W18 29N46     -6.00",
-    "file": "houston_texas_usa_095w18_29n46_6_00"
+    "coordinates": "29N46 095W22",
+    "timezone": "-6:00",
+    "option": "Houston, Texas, USA           29N46 095W22  -6:00",
+    "file": "houston_texas_usa_29n46_095w22_6_00"
   },
   {
     "title": "Madison, Wisconsin, USA",
-    "coordinates": "089W24 43N04",
-    "timezone": "-6.00",
-    "option": "Madison, Wisconsin, USA       089W24 43N04     -6.00",
-    "file": "madison_wisconsin_usa_089w24_43n04_6_00"
+    "coordinates": "43N04 089W24",
+    "timezone": "-6:00",
+    "option": "Madison, Wisconsin, USA       43N04 089W24  -6:00",
+    "file": "madison_wisconsin_usa_43n04_089w24_6_00"
   },
   {
     "title": "Managua, Nicaragua",
-    "coordinates": "086W25 12N03",
-    "timezone": "-6.00",
-    "option": "Managua, Nicaragua            086W25 12N03     -6.00",
-    "file": "managua_nicaragua_086w25_12n03_6_00"
+    "coordinates": "12N08 086W15",
+    "timezone": "-6:00",
+    "option": "Managua, Nicaragua            12N08 086W15  -6:00",
+    "file": "managua_nicaragua_12n08_086w15_6_00"
   },
   {
-    "title": "Merida ( Yucatan )  Mexico",
-    "coordinates": "089W37 20N58",
-    "timezone": "-6.00",
-    "option": "Merida ( Yucatan )  Mexico    089W37 20N58     -6.00",
-    "file": "merida_yucatan_mexico_089w37_20n58_6_00"
+    "title": "Merida, (Yucatan), Mexico",
+    "coordinates": "20N58 089W37",
+    "timezone": "-6:00",
+    "option": "Merida, (Yucatan), Mexico     20N58 089W37  -6:00",
+    "file": "merida_yucatan_mexico_20n58_089w37_6_00"
   },
   {
     "title": "Mexico City, Mexico",
-    "coordinates": "099W09 19N24",
-    "timezone": "-6.00",
-    "option": "Mexico City, Mexico           099W09 19N24     -6.00",
-    "file": "mexico_city_mexico_099w09_19n24_6_00"
+    "coordinates": "19N26 099W08",
+    "timezone": "-6:00",
+    "option": "Mexico City, Mexico           19N26 099W08  -6:00",
+    "file": "mexico_city_mexico_19n26_099w08_6_00"
   },
   {
     "title": "Mobile, Alabama, USA",
-    "coordinates": "088W03 30N42",
-    "timezone": "-6.00",
-    "option": "Mobile, Alabama, USA          088W03 30N42     -6.00",
-    "file": "mobile_alabama_usa_088w03_30n42_6_00"
+    "coordinates": "30N42 088W03",
+    "timezone": "-6:00",
+    "option": "Mobile, Alabama, USA          30N42 088W03  -6:00",
+    "file": "mobile_alabama_usa_30n42_088w03_6_00"
   },
   {
     "title": "Monterrey, Mexico",
-    "coordinates": "100W19 25N40",
-    "timezone": "-6.00",
-    "option": "Monterrey, Mexico             100W19 25N40     -6.00",
-    "file": "monterrey_mexico_100w19_25n40_6_00"
+    "coordinates": "25N40 100W19",
+    "timezone": "-6:00",
+    "option": "Monterrey, Mexico             25N40 100W19  -6:00",
+    "file": "monterrey_mexico_25n40_100w19_6_00"
   },
   {
     "title": "Monteverde, Costa Rica",
-    "coordinates": "084W49 10N18",
-    "timezone": "-6.00",
-    "option": "Monteverde, Costa Rica        084W49 10N18     -6.00",
-    "file": "monteverde_costa_rica_084w49_10n18_6_00"
+    "coordinates": "10N18 084W49",
+    "timezone": "-6:00",
+    "option": "Monteverde, Costa Rica        10N18 084W49  -6:00",
+    "file": "monteverde_costa_rica_10n18_084w49_6_00"
   },
   {
     "title": "Morelia, Mexico",
-    "coordinates": "101W07 19N42",
-    "timezone": "-6.00",
-    "option": "Morelia, Mexico               101W07 19N42     -6.00",
-    "file": "morelia_mexico_101w07_19n42_6_00"
+    "coordinates": "19N42 101W11",
+    "timezone": "-6:00",
+    "option": "Morelia, Mexico               19N42 101W11  -6:00",
+    "file": "morelia_mexico_19n42_101w11_6_00"
   },
   {
     "title": "Nashville, Tennessee, USA",
-    "coordinates": "086W47 36N10",
-    "timezone": "-6.00",
-    "option": "Nashville, Tennessee, USA     086W47 36N10     -6.00",
-    "file": "nashville_tennessee_usa_086w47_36n10_6_00"
+    "coordinates": "36N10 086W47",
+    "timezone": "-6:00",
+    "option": "Nashville, Tennessee, USA     36N10 086W47  -6:00",
+    "file": "nashville_tennessee_usa_36n10_086w47_6_00"
   },
   {
     "title": "New Orleans, Louisiana, USA",
-    "coordinates": "090W07 29N58",
-    "timezone": "-6.00",
-    "option": "New Orleans, Louisiana, USA   090W07 29N58     -6.00",
-    "file": "new_orleans_louisiana_usa_090w07_29n58_6_00"
+    "coordinates": "29N57 090W05",
+    "timezone": "-6:00",
+    "option": "New Orleans, Louisiana, USA   29N57 090W05  -6:00",
+    "file": "new_orleans_louisiana_usa_29n57_090w05_6_00"
   },
   {
     "title": "Oklahoma City, Oklahoma, USA",
-    "coordinates": "097W30 35N29",
-    "timezone": "-6.00",
-    "option": "Oklahoma City, Oklahoma, USA  097W30 35N29     -6.00",
-    "file": "oklahoma_city_oklahoma_usa_097w30_35n29_6_00"
+    "coordinates": "35N28 097W31",
+    "timezone": "-6:00",
+    "option": "Oklahoma City, Oklahoma, USA  35N28 097W31  -6:00",
+    "file": "oklahoma_city_oklahoma_usa_35n28_097w31_6_00"
   },
   {
     "title": "Picayune, Mississippi, USA",
-    "coordinates": "089W41 30N26",
-    "timezone": "-6.00",
-    "option": "Picayune, Mississippi, USA    089W41 30N26     -6.00",
-    "file": "picayune_mississippi_usa_089w41_30n26_6_00"
+    "coordinates": "30N32 089W41",
+    "timezone": "-6:00",
+    "option": "Picayune, Mississippi, USA    30N32 089W41  -6:00",
+    "file": "picayune_mississippi_usa_30n32_089w41_6_00"
   },
   {
     "title": "Regina, Saskatchewan, Canada",
-    "coordinates": "104W39 50N25",
-    "timezone": "-6.00",
-    "option": "Regina, Saskatchewan, Canada  104W39 50N25     -6.00",
-    "file": "regina_saskatchewan_canada_104w39_50n25_6_00"
+    "coordinates": "50N27 104W37",
+    "timezone": "-6:00",
+    "option": "Regina, Saskatchewan, Canada  50N27 104W37  -6:00",
+    "file": "regina_saskatchewan_canada_50n27_104w37_6_00"
   },
   {
     "title": "Saltillo, Mexico",
-    "coordinates": "101W00 25N25",
-    "timezone": "-6.00",
-    "option": "Saltillo, Mexico              101W00 25N25     -6.00",
-    "file": "saltillo_mexico_101w00_25n25_6_00"
+    "coordinates": "25N25 101W00",
+    "timezone": "-6:00",
+    "option": "Saltillo, Mexico              25N25 101W00  -6:00",
+    "file": "saltillo_mexico_25n25_101w00_6_00"
   },
   {
     "title": "San Jose, Costa Rica",
-    "coordinates": "084W03 09N58",
-    "timezone": "-6.00",
-    "option": "San Jose, Costa Rica          084W03 09N58     -6.00",
-    "file": "san_jose_costa_rica_084w03_09n58_6_00"
+    "coordinates": "10N01 084W06",
+    "timezone": "-6:00",
+    "option": "San Jose, Costa Rica          10N01 084W06  -6:00",
+    "file": "san_jose_costa_rica_10n01_084w06_6_00"
   },
   {
     "title": "San Salvador, El Salvador",
-    "coordinates": "089W20 13N45",
-    "timezone": "-6.00",
-    "option": "San Salvador, El Salvador     089W20 13N45     -6.00",
-    "file": "san_salvador_el_salvador_089w20_13n45_6_00"
+    "coordinates": "13N41 089W11",
+    "timezone": "-6:00",
+    "option": "San Salvador, El Salvador     13N41 089W11  -6:00",
+    "file": "san_salvador_el_salvador_13n41_089w11_6_00"
   },
   {
     "title": "Sidney (Gopals), Texas, USA",
-    "coordinates": "098W49 32N01",
-    "timezone": "-6.00",
-    "option": "Sidney (Gopals), Texas, USA   098W49 32N01     -6.00",
-    "file": "sidney_gopals_texas_usa_098w49_32n01_6_00"
+    "coordinates": "32N01 098W49",
+    "timezone": "-6:00",
+    "option": "Sidney (Gopals), Texas, USA   32N01 098W49  -6:00",
+    "file": "sidney_gopals_texas_usa_32n01_098w49_6_00"
   },
   {
     "title": "St. Louis, Missouri, USA",
-    "coordinates": "090W07 38N41",
-    "timezone": "-6.00",
-    "option": "St. Louis, Missouri, USA      090W07 38N41     -6.00",
-    "file": "st_louis_missouri_usa_090w07_38n41_6_00"
+    "coordinates": "38N38 090W12",
+    "timezone": "-6:00",
+    "option": "St. Louis, Missouri, USA      38N38 090W12  -6:00",
+    "file": "st_louis_missouri_usa_38n38_090w12_6_00"
   },
   {
     "title": "Tegucigalpa, Honduras",
-    "coordinates": "087W21 14N08",
-    "timezone": "-6.00",
-    "option": "Tegucigalpa, Honduras         087W21 14N08     -6.00",
-    "file": "tegucigalpa_honduras_087w21_14n08_6_00"
+    "coordinates": "14N05 087W12",
+    "timezone": "-6:00",
+    "option": "Tegucigalpa, Honduras         14N05 087W12  -6:00",
+    "file": "tegucigalpa_honduras_14n05_087w12_6_00"
   },
   {
-    "title": "Tulacingo, Mexico",
-    "coordinates": "098W22 20N05",
-    "timezone": "-6.00",
-    "option": "Tulacingo, Mexico             098W22 20N05     -6.00",
-    "file": "tulacingo_mexico_098w22_20n05_6_00"
+    "title": "Tulancingo, Mexico",
+    "coordinates": "20N05 098W22",
+    "timezone": "-6:00",
+    "option": "Tulancingo, Mexico            20N05 098W22  -6:00",
+    "file": "tulancingo_mexico_20n05_098w22_6_00"
   },
   {
-    "title": "Vera Cruz, Mexico",
-    "coordinates": "096W40 19N20",
-    "timezone": "-6.00",
-    "option": "Vera Cruz, Mexico             096W40 19N20     -6.00",
-    "file": "vera_cruz_mexico_096w40_19n20_6_00"
+    "title": "Veracruz, Mexico",
+    "coordinates": "19N12 096W08",
+    "timezone": "-6:00",
+    "option": "Veracruz, Mexico              19N12 096W08  -6:00",
+    "file": "veracruz_mexico_19n12_096w08_6_00"
   },
   {
     "title": "Waco, Texas, USA",
-    "coordinates": "097W08 31N33",
-    "timezone": "-6.00",
-    "option": "Waco, Texas, USA              097W08 31N33     -6.00",
-    "file": "waco_texas_usa_097w08_31n33_6_00"
+    "coordinates": "31N33 097W09",
+    "timezone": "-6:00",
+    "option": "Waco, Texas, USA              31N33 097W09  -6:00",
+    "file": "waco_texas_usa_31n33_097w09_6_00"
   },
   {
     "title": "Zacatecas, Mexico",
-    "coordinates": "102W35 22N47",
-    "timezone": "-6.00",
-    "option": "Zacatecas, Mexico             102W35 22N47     -6.00",
-    "file": "zacatecas_mexico_102w35_22n47_6_00"
+    "coordinates": "22N47 102W34",
+    "timezone": "-6:00",
+    "option": "Zacatecas, Mexico             22N47 102W34  -6:00",
+    "file": "zacatecas_mexico_22n47_102w34_6_00"
   }
 ]
