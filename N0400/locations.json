@@ -28,10 +28,10 @@
     "file": "caracas_venezuela_10n30_066w55_4_00"
   },
   {
-    "title": "Ciales Puerto Rico,",
+    "title": "Ciales, Puerto Rico",
     "coordinates": "18N20 066W28",
     "timezone": "-4:00",
-    "option": "Ciales Puerto Rico,           18N20 066W28  -4:00",
+    "option": "Ciales, Puerto Rico           18N20 066W28  -4:00",
     "file": "ciales_puerto_rico_18n20_066w28_4_00"
   },
   {
@@ -61,6 +61,13 @@
     "timezone": "-4:00",
     "option": "La Paz, Bolivia               16S30 068W09  -4:00",
     "file": "la_paz_bolivia_16s30_068w09_4_00"
+  },
+  {
+    "title": "Linden, Guyana",
+    "coordinates": "06N00 058W18",
+    "timezone": "-4:00",
+    "option": "Linden, Guyana                06N00 058W18  -4:00",
+    "file": "linden_guyana_06n00_058w18_4_00"
   },
   {
     "title": "Manaus, Brazil",

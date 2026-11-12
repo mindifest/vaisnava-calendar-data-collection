@@ -127,10 +127,10 @@
   },
   {
     "title": "Bremerhaven, Germany",
-    "coordinates": "53N53 008E35",
+    "coordinates": "53N33 008E35",
     "timezone": "+1:00",
-    "option": "Bremerhaven, Germany          53N53 008E35  +1:00",
-    "file": "bremerhaven_germany_53n53_008e35_1_00"
+    "option": "Bremerhaven, Germany          53N33 008E35  +1:00",
+    "file": "bremerhaven_germany_53n33_008e35_1_00"
   },
   {
     "title": "Brest, France",
@@ -301,11 +301,11 @@
     "file": "gdansk_poland_54n21_018e40_1_00"
   },
   {
-    "title": "Geneve, Switzerland",
+    "title": "Geneva, Switzerland",
     "coordinates": "46N12 006E09",
     "timezone": "+1:00",
-    "option": "Geneve, Switzerland           46N12 006E09  +1:00",
-    "file": "geneve_switzerland_46n12_006e09_1_00"
+    "option": "Geneva, Switzerland           46N12 006E09  +1:00",
+    "file": "geneva_switzerland_46n12_006e09_1_00"
   },
   {
     "title": "Goeteborg, Sweden",
@@ -819,6 +819,13 @@
     "file": "schwerin_germany_53n38_011e25_1_00"
   },
   {
+    "title": "Seville, Spain",
+    "coordinates": "37N23 005W59",
+    "timezone": "+1:00",
+    "option": "Seville, Spain                37N23 005W59  +1:00",
+    "file": "seville_spain_37n23_005w59_1_00"
+  },
+  {
     "title": "Skopje, Macedonia",
     "coordinates": "42N00 021E26",
     "timezone": "+1:00",
@@ -841,10 +848,10 @@
   },
   {
     "title": "St. Aegyd, Austria",
-    "coordinates": "47N52 015E35",
+    "coordinates": "47N51 015E34",
     "timezone": "+1:00",
-    "option": "St. Aegyd, Austria            47N52 015E35  +1:00",
-    "file": "st_aegyd_austria_47n52_015e35_1_00"
+    "option": "St. Aegyd, Austria            47N51 015E34  +1:00",
+    "file": "st_aegyd_austria_47n51_015e34_1_00"
   },
   {
     "title": "Stockholm, Sweden",
@@ -938,6 +945,13 @@
     "file": "utrecht_netherlands_52n05_005e07_1_00"
   },
   {
+    "title": "Vaexjoe, Sweden",
+    "coordinates": "56N53 014E49",
+    "timezone": "+1:00",
+    "option": "Vaexjoe, Sweden               56N53 014E49  +1:00",
+    "file": "vaexjoe_sweden_56n53_014e49_1_00"
+  },
+  {
     "title": "Valencay, France",
     "coordinates": "47N09 001E34",
     "timezone": "+1:00",
@@ -950,13 +964,6 @@
     "timezone": "+1:00",
     "option": "Valencia, Spain               39N28 000W23  +1:00",
     "file": "valencia_spain_39n28_000w23_1_00"
-  },
-  {
-    "title": "Vaexjoe, Sweden",
-    "coordinates": "56N53 014E49",
-    "timezone": "+1:00",
-    "option": "Vaexjoe, Sweden               56N53 014E49  +1:00",
-    "file": "vaexjoe_sweden_56n53_014e49_1_00"
   },
   {
     "title": "Vicenza, Italy",
@@ -1034,6 +1041,13 @@
     "timezone": "+1:00",
     "option": "Zakopane, Poland              49N18 019E58  +1:00",
     "file": "zakopane_poland_49n18_019e58_1_00"
+  },
+  {
+    "title": "Zamora, Spain",
+    "coordinates": "41N30 005W45",
+    "timezone": "+1:00",
+    "option": "Zamora, Spain                 41N30 005W45  +1:00",
+    "file": "zamora_spain_41n30_005w45_1_00"
   },
   {
     "title": "Zlin, Czech Republic",

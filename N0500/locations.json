@@ -231,11 +231,11 @@
     "file": "moundsville_wv_usa_39n55_080w45_5_00"
   },
   {
-    "title": "New Vrindaban, WV, USA",
-    "coordinates": "39N56 080W37",
+    "title": "New Vrindavan, WV, USA",
+    "coordinates": "39N58 080W36",
     "timezone": "-5:00",
-    "option": "New Vrindaban, WV, USA        39N56 080W37  -5:00",
-    "file": "new_vrindaban_wv_usa_39n56_080w37_5_00"
+    "option": "New Vrindavan, WV, USA        39N58 080W36  -5:00",
+    "file": "new_vrindavan_wv_usa_39n58_080w36_5_00"
   },
   {
     "title": "New York, New York, USA",
@@ -320,13 +320,6 @@
     "timezone": "-5:00",
     "option": "Rual Estates, Florida, USA    26N20 081W32  -5:00",
     "file": "rual_estates_florida_usa_26n20_081w32_5_00"
-  },
-  {
-    "title": "Salcabamba, Peru",
-    "coordinates": "12S18 074W50",
-    "timezone": "-5:00",
-    "option": "Salcabamba, Peru              12S18 074W50  -5:00",
-    "file": "salcabamba_peru_12s18_074w50_5_00"
   },
   {
     "title": "Tallahassee, Florida, USA",

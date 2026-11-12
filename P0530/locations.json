@@ -35,13 +35,6 @@
     "file": "bangalore_karnataka_india_12n59_077e36_5_30"
   },
   {
-    "title": "Baroda (Vadodara), India",
-    "coordinates": "22N18 073E12",
-    "timezone": "+5:30",
-    "option": "Baroda (Vadodara), India      22N18 073E12  +5:30",
-    "file": "baroda_vadodara_india_22n18_073e12_5_30"
-  },
-  {
     "title": "Bela, Jharkhand, India",
     "coordinates": "24N24 084E45",
     "timezone": "+5:30",
@@ -203,6 +196,13 @@
     "file": "mangalore_karnataka_india_12n52_074e53_5_30"
   },
   {
+    "title": "Manali, H.P., India",
+    "coordinates": "32N16 077E10",
+    "timezone": "+5:30",
+    "option": "Manali, H.P., India           32N16 077E10  +5:30",
+    "file": "manali_h_p_india_32n16_077e10_5_30"
+  },
+  {
     "title": "Mathura, U.P., India",
     "coordinates": "27N30 077E41",
     "timezone": "+5:30",
@@ -274,10 +274,10 @@
   },
   {
     "title": "Secunderabad, A.P., India",
-    "coordinates": "17N30 078E33",
+    "coordinates": "17N27 078E30",
     "timezone": "+5:30",
-    "option": "Secunderabad, A.P., India     17N30 078E33  +5:30",
-    "file": "secunderabad_a_p_india_17n30_078e33_5_30"
+    "option": "Secunderabad, A.P., India     17N27 078E30  +5:30",
+    "file": "secunderabad_a_p_india_17n27_078e30_5_30"
   },
   {
     "title": "Silchar, Assam, India",

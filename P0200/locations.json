@@ -140,6 +140,13 @@
     "file": "klaipeda_lithuania_55n43_021e07_2_00"
   },
   {
+    "title": "Lakstene, Latvia",
+    "coordinates": "56N53 025E17",
+    "timezone": "+2:00",
+    "option": "Lakstene, Latvia              56N53 025E17  +2:00",
+    "file": "lakstene_latvia_56n53_025e17_2_00"
+  },
+  {
     "title": "Lusaka, Zambia",
     "coordinates": "15S24 028E17",
     "timezone": "+2:00",
@@ -264,6 +271,13 @@
     "timezone": "+2:00",
     "option": "Utena, Lithuania              55N30 025E36  +2:00",
     "file": "utena_lithuania_55n30_025e36_2_00"
+  },
+  {
+    "title": "Vaasa, Finland",
+    "coordinates": "63N06 021E37",
+    "timezone": "+2:00",
+    "option": "Vaasa, Finland                63N06 021E37  +2:00",
+    "file": "vaasa_finland_63n06_021e37_2_00"
   },
   {
     "title": "Vilnius, Lithuania",

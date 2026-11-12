@@ -99,10 +99,10 @@
   },
   {
     "title": "Monteverde, Costa Rica",
-    "coordinates": "10N18 084W49",
+    "coordinates": "10N19 084W49",
     "timezone": "-6:00",
-    "option": "Monteverde, Costa Rica        10N18 084W49  -6:00",
-    "file": "monteverde_costa_rica_10n18_084w49_6_00"
+    "option": "Monteverde, Costa Rica        10N19 084W49  -6:00",
+    "file": "monteverde_costa_rica_10n19_084w49_6_00"
   },
   {
     "title": "Morelia, Mexico",
@@ -208,6 +208,13 @@
     "timezone": "-6:00",
     "option": "Waco, Texas, USA              31N33 097W09  -6:00",
     "file": "waco_texas_usa_31n33_097w09_6_00"
+  },
+  {
+    "title": "Winnipeg, MB Canada",
+    "coordinates": "49N53 097W09",
+    "timezone": "-6:00",
+    "option": "Winnipeg, MB Canada           49N53 097W09  -6:00",
+    "file": "winnipeg_mb_canada_49n53_097w09_6_00"
   },
   {
     "title": "Zacatecas, Mexico",

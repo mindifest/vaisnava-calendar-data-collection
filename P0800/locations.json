@@ -7,6 +7,13 @@
     "file": "beijing_china_39n54_116e24_8_00"
   },
   {
+    "title": "Bengbu, (Anhui) China",
+    "coordinates": "32N56 117E22",
+    "timezone": "+8:00",
+    "option": "Bengbu, (Anhui) China         32N56 117E22  +8:00",
+    "file": "bengbu_anhui_china_32n56_117e22_8_00"
+  },
+  {
     "title": "Bratsk, Russia",
     "coordinates": "56N08 101E37",
     "timezone": "+8:00",
@@ -35,11 +42,11 @@
     "file": "cebu_philippines_10n19_123e54_8_00"
   },
   {
-    "title": "Changsha, China",
-    "coordinates": "26N43 112E23",
+    "title": "Changsha, (Hunan) China",
+    "coordinates": "28N12 112E58",
     "timezone": "+8:00",
-    "option": "Changsha, China               26N43 112E23  +8:00",
-    "file": "changsha_china_26n43_112e23_8_00"
+    "option": "Changsha, (Hunan) China       28N12 112E58  +8:00",
+    "file": "changsha_hunan_china_28n12_112e58_8_00"
   },
   {
     "title": "Chengdu, China",
@@ -49,11 +56,25 @@
     "file": "chengdu_china_30n40_104e04_8_00"
   },
   {
+    "title": "Chongqing (Sichuan), China",
+    "coordinates": "30N39 103E41",
+    "timezone": "+8:00",
+    "option": "Chongqing (Sichuan), China    30N39 103E41  +8:00",
+    "file": "chongqing_sichuan_china_30n39_103e41_8_00"
+  },
+  {
     "title": "Denpasar, Bali,  Indonesia",
     "coordinates": "08S39 115E13",
     "timezone": "+8:00",
     "option": "Denpasar, Bali,  Indonesia    08S39 115E13  +8:00",
     "file": "denpasar_bali_indonesia_08s39_115e13_8_00"
+  },
+  {
+    "title": "Guangzhou, (Guangdong) China",
+    "coordinates": "23N07 113E15",
+    "timezone": "+8:00",
+    "option": "Guangzhou, (Guangdong) China  23N07 113E15  +8:00",
+    "file": "guangzhou_guangdong_china_23n07_113e15_8_00"
   },
   {
     "title": "Hangzhou, China",
@@ -152,6 +173,13 @@
     "timezone": "+8:00",
     "option": "Shanghai, China               31N13 121E27  +8:00",
     "file": "shanghai_china_31n13_121e27_8_00"
+  },
+  {
+    "title": "Shenzhen, (Guangdong) China",
+    "coordinates": "22N32 114E08",
+    "timezone": "+8:00",
+    "option": "Shenzhen, (Guangdong) China   22N32 114E08  +8:00",
+    "file": "shenzhen_guangdong_china_22n32_114e08_8_00"
   },
   {
     "title": "Singapore",

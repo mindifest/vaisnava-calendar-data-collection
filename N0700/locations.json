@@ -7,6 +7,13 @@
     "file": "albuquerque_nm_usa_35n05_106w39_7_00"
   },
   {
+    "title": "Ashcroft, B.C., Canada",
+    "coordinates": "50N43 121W17",
+    "timezone": "-7:00",
+    "option": "Ashcroft, B.C., Canada        50N43 121W17  -7:00",
+    "file": "ashcroft_b_c_canada_50n43_121w17_7_00"
+  },
+  {
     "title": "Boise, Idaho, USA",
     "coordinates": "43N37 116W12",
     "timezone": "-7:00",
@@ -63,6 +70,13 @@
     "file": "missoula_montana_usa_46n52_113w60_7_00"
   },
   {
+    "title": "Nelson, BC Canada",
+    "coordinates": "49N30 117W17",
+    "timezone": "-7:00",
+    "option": "Nelson, BC Canada             49N30 117W17  -7:00",
+    "file": "nelson_bc_canada_49n30_117w17_7_00"
+  },
+  {
     "title": "Phoenix, Arizona, USA",
     "coordinates": "33N27 112W04",
     "timezone": "-7:00",
@@ -89,5 +103,19 @@
     "timezone": "-7:00",
     "option": "Tucson, Arizona, USA          32N13 110W56  -7:00",
     "file": "tucson_arizona_usa_32n13_110w56_7_00"
+  },
+  {
+    "title": "Vancouver, Canada",
+    "coordinates": "49N15 123W07",
+    "timezone": "-7:00",
+    "option": "Vancouver, Canada             49N15 123W07  -7:00",
+    "file": "vancouver_canada_49n15_123w07_7_00"
+  },
+  {
+    "title": "Victoria, Canada",
+    "coordinates": "48N26 123W22",
+    "timezone": "-7:00",
+    "option": "Victoria, Canada              48N26 123W22  -7:00",
+    "file": "victoria_canada_48n26_123w22_7_00"
   }
 ]

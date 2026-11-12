@@ -29,9 +29,9 @@
   },
   {
     "title": "Tokyo, Japan",
-    "coordinates": "35N42 139E42",
+    "coordinates": "35N42 139E46",
     "timezone": "+9:00",
-    "option": "Tokyo, Japan                  35N42 139E42  +9:00",
-    "file": "tokyo_japan_35n42_139e42_9_00"
+    "option": "Tokyo, Japan                  35N42 139E46  +9:00",
+    "file": "tokyo_japan_35n42_139e46_9_00"
   }
 ]
